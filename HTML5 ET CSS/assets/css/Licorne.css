@@ -1,0 +1,97 @@
+p{
+			font-size: 60%;
+			font-family: Arial, sans-serif;
+		}
+		title{
+			font-family: 'Courgette', cursive;
+			color: #EB43A3;
+		}
+		li{
+		color: #EB43A3;
+		font-family: 'Courgette', cursive;
+
+		}
+		h1{
+			color : #C55394;
+			font-family: 'Courgette', cursive;
+			font-weight: bold;
+			padding: 20px;
+			text-align: center;
+			float: center;
+
+
+
+			
+		}
+		header{
+			color: white;
+			background-color:  #C55394;
+			font-family: 'Courgette', cursive;
+			display: inline-block;
+			width: 100%;
+		}
+		li a:hover{
+             background-color: pink;
+             color: color text;
+
+
+		}
+	input {
+   font-size: 20%;
+  display: inline-block;
+  background-color: #EB43A3;
+  border-radius: 10px;
+  border: #C55394;
+  color: white;
+  text-align: center;
+  font-size: 20px;
+  padding: 10px;
+  width: 200px;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 0px;
+  float: right;
+}
+
+
+
+		body{
+			margin: auto;
+			
+			
+		}
+
+		figcaption{
+			float:center;
+		}
+		div {
+		
+            display: flex;
+            justify-content: space-between;
+
+		}   
+		h5{
+			
+			font-family: 'Courgette', cursive;
+			color: #EB43A3;
+
+
+
+		}
+        h6{
+        	color: white;
+        	background-color:  #C55394;
+			font-family: 'Courgette', cursive;
+			width: 100%;
+			float: center;
+
+        }
+        
+  
+		 
+      
+
+
